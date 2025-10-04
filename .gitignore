@@ -1,0 +1,148 @@
+# # Miscellaneous
+# *.class
+# *.log
+# *.pyc
+# *.swp
+# .DS_Store
+# .atom/
+# .buildlog/
+# .history
+# .svn/
+# migrate_working_dir/
+
+# # IntelliJ related
+# *.iml
+# *.ipr
+# *.iws
+# .idea/
+
+# # The .vscode folder contains launch configuration and tasks you configure in
+# # VS Code which you may wish to be included in version control, so this line
+# # is commented out by default.
+# #.vscode/
+
+# # Flutter/Dart/Pub related
+# **/doc/api/
+# **/ios/Flutter/.last_build_id
+# .dart_tool/
+# .flutter-plugins
+# .flutter-plugins-dependencies
+# .pub-cache/
+# .pub/
+# /build/
+
+# # Symbolication related
+# app.*.symbols
+
+# # Obfuscation related
+# app.*.map.json
+
+# # Android Studio will place build artifacts here
+# android/app/debug
+# android/app/profile
+# android/app/release
+
+
+
+# # Firebase configuration files (DO NOT COMMIT YOUR CREDENTIALS)
+# android/app/google-services.json
+# ios/Runner/GoogleService-Info.plist
+# macos/Runner/GoogleService-Info.plist
+# lib/firebase_options.dart
+# firebase.json
+
+
+# -----------------------------
+# General & OS files
+# -----------------------------
+.DS_Store
+*.log
+*.swp
+*.tmp
+*.pyc
+*.class
+.atom/
+.buildlog/
+.history
+.svn/
+migrate_working_dir/
+
+# -----------------------------
+# IDE / Editor settings
+# -----------------------------
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Uncomment if you don't want VS Code settings tracked
+#.vscode/
+
+# -----------------------------
+# Flutter / Dart / Pub
+# -----------------------------
+.dart_tool/
+.packages
+.pub/
+.pub-cache/
+.flutter-plugins
+.flutter-plugins-dependencies
+**/doc/api/
+**/ios/Flutter/.last_build_id
+/build/
+.metadata
+.generated/
+coverage/
+*.dart_tool/
+.flutter-plugins-dependencies
+
+# -----------------------------
+# Android
+# -----------------------------
+android/.gradle/
+android/app/build/
+android/local.properties
+android/app/debug/
+android/app/profile/
+android/app/release/
+
+# -----------------------------
+# iOS / macOS
+# -----------------------------
+ios/Flutter/App.framework
+ios/Flutter/Flutter.framework
+ios/Flutter/Generated.xcconfig
+ios/Flutter/Flutter.podspec
+ios/.symlinks/
+ios/Pods/
+ios/build/
+ios/Runner.xcworkspace/
+ios/DerivedData/
+ios/Podfile.lock
+macos/Pods/
+macos/build/
+macos/Runner/GoogleService-Info.plist
+
+# -----------------------------
+# Web
+# -----------------------------
+web/.dart_tool/
+web/.flutter-plugins-dependencies
+
+# -----------------------------
+# Firebase & Secrets (DO NOT COMMIT)
+# -----------------------------
+android/app/google-services.json
+ios/Runner/GoogleService-Info.plist
+macos/Runner/GoogleService-Info.plist
+lib/firebase_options.dart
+firebase.json
+
+# -----------------------------
+# Miscellaneous
+# -----------------------------
+app.*.symbols
+app.*.map.json
+*.lock
+*.zip
+lib/updated_code_files/
